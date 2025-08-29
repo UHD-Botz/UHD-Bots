@@ -7,7 +7,7 @@
 
 ## 🛠️ Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,mongodb,html,css,js,docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,mongodb,html,css,js,docker,pyrogram" />
   <img src="https://img.shields.io/badge/Pyrogram-00FFCC?style=for-the-badge&logo=telegram&logoColor=000" />
 </p>
 
