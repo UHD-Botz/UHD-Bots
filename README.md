@@ -5,16 +5,6 @@
 
 ---
 
-# 🚀 MR Ankan — Professional Developer
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AGE-21-00FFCC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/COUNTRY-INDIA-00FFCC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DOMAIN-Software%20%26%20Cybersecurity-00FFCC?style=for-the-badge" />
-</p>
-
----
-
 ## 🛠️ Tech Arsenal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,php,mongodb,html,css,js,docker" />
