@@ -43,20 +43,6 @@
 
 ---
 
-## 🏢 Startup — [WebLysi](https://www.weblysi.in)
-**WebLysi** delivers **premium web solutions**:  
-🚀 Web Apps · 🎨 Brand Design · ☁️ AWS Hosting · 📈 Digital Marketing  
-
-- 🧰 **Stack:** Python · Laravel · React · Flutter · Docker · AWS  
-- 📈 **Stats:** 12+ clients · 15+ projects · 2+ years  
-
----
-
-## ✨ Motto
-> *"Don’t just code. Build the Future."*
-
----
-
 <p align="center">
-  💎 Crafted with passion by <b>Mr MKN</b> 💎
+  💎 Made By <b>MR Ankan</b> 💎
 </p>
