@@ -26,11 +26,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/?username=MrMKN&cc=000&tc=00ff00&ic=fff000&bc=fff" />
+  <img src="https://github-stats-alpha.vercel.app/api/?username=UHD-Botz&cc=000&tc=00ff00&ic=fff000&bc=fff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrMKN&show_icons=true&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UHD-Botz&show_icons=true&theme=midnight-purple" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UHD-Botz&layout=compact&theme=tokyonight" />
 </p>
 
 ---
