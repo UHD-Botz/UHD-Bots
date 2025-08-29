@@ -24,7 +24,9 @@ I craft **scalable apps, automation bots, and secure systems** with futuristic d
 
 ## 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,nodejs,angular,aws,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,mongodb,html,css,js,docker" />
+  <img src="https://img.shields.io/badge/Pyrogram-00FFCC?style=for-the-badge&logo=telegram&logoColor=000" />
+  <img src="https://img.shields.io/badge/Dockerfile-00FFCC?style=for-the-badge&logo=docker&logoColor=000" />
 </p>
 
 ---
