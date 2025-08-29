@@ -1,6 +1,6 @@
 <!-- Futuristic Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=800&lines=Hello+%F0%9F%91%8B+I'm+Mr+Ankan;Professional+Developer+%F0%9F%90%8D;%F0%9F%94%92;Lets+Build+the+Future+%F0%9F%9A%80" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=800&lines=Hello+%F0%9F%91%8B+I'm+Mr+Ankan;Professional+Developer+%F0%9F%90%8D;Lets+Build+the+Future+%F0%9F%9A%80" alt="Typing SVG">
 </p>
 
 ---
