@@ -15,7 +15,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.uhd-official.vercel.app"><img src="https://img.shields.io/badge/Website-00FFCC?style=for-the-badge&logo=vercel&logoColor=000" /></a>
+  <a href="https://uhd-official.vercel.app/"><img src="https://img.shields.io/badge/Website-00FFCC?style=for-the-badge&logo=vercel&logoColor=000" /></a>
   <a href="https://www.youtube.com/@DIESENGAMINGYT"><img src="https://img.shields.io/badge/YouTube-00FFCC?style=for-the-badge&logo=youtube&logoColor=000" /></a>
   <a href="https://www.telegram.org/Ankan_Contact_Bot"><img src="https://img.shields.io/badge/Telegram-00FFCC?style=for-the-badge&logo=linkedin&logoColor=000" /></a>
   <a href="https://www.linktr.ee/DIESEN_GAMING"><img src="https://img.shields.io/badge/Linktree-00FFCC?style=for-the-badge&logo=instagram&logoColor=000" /></a>
