@@ -23,17 +23,22 @@
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrMKN&show_icons=true&theme=radical&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF&bg_color=0D1117" />
+  <img src="https://github-stats-alpha.vercel.app/api/?username=MrMKN&cc=000&tc=00ff00&ic=fff000&bc=fff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MrMKN&theme=highcontrast&hide_border=true&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrMKN&show_icons=true&theme=midnight-purple" />
 </p>
 
+---
+
+## 💻 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&title_color=00FFCC&text_color=FFFFFF&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=tokyonight" />
 </p>
 
 ---
