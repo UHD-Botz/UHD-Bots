@@ -8,7 +8,7 @@
 ## 🛠️ Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,php,mongodb,html,css,js,docker,ruby,swift,go,kotlin,lua" />
-  <img src="https://img.shields.io/badge/Pyrogram-00FFCC?style=for-the-badge&logo=telegram&logoColor=000" />
+  <img src="https://img.shields.io/badge/Pyrogram-FFA500?style=for-the-badge&logo=telegram&logoColor=000" />
 </p>
 
 ---
