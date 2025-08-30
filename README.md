@@ -15,10 +15,10 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://uhd-official.vercel.app/"><img src="https://img.shields.io/badge/Website-00FFCC?style=for-the-badge&logo=google&logoColor=000" /></a>
+  <a href="https://uhd-official.vercel.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google&logoColor=000" /></a>
   <a href="https://www.youtube.com/@DIESENGAMINGYT"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=000" /></a>
   <a href="https://www.telegram.me/Ankan_Contact_Bot"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=000" /></a>
-  <a href="https://www.linktr.ee/DIESEN_GAMING"><img src="https://img.shields.io/badge/Linktree-00FFCC?style=for-the-badge&logo=linktree&logoColor=000" /></a>
+  <a href="https://www.linktr.ee/DIESEN_GAMING"><img src="https://img.shields.io/badge/Linktree-1E2330?style=for-the-badge&logo=linktree&logoColor=000" /></a>
 </p>
 
 ---
